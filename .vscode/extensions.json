@@ -5,7 +5,6 @@
     "bradlc.vscode-tailwindcss",
     "vitest.explorer",
     "yoavbls.pretty-ts-errors",
-    "ms-playwright.playwright",
-    "github.vscode-github-actions"
+    "ms-playwright.playwright"
   ]
 }
